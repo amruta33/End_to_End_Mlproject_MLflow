@@ -29,13 +29,3 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 
 
 
-
-#MLFLOW_TRACKING_URI=https://dagshub.com/amruta33/End_to_End_Mlproject_MLflow.mlflow \
-#MLFLOW_TRACKING_USERNAME=amruta33 \
-#MLFLOW_TRACKING_PASSWORD=290f08a36a4719f61645c15ee20594f47277e126 \263
-#python script.py
-
-
-
-
-Save ECR URI: 808314578447.dkr.ecr.us-east-1.amazonaws.com/mlproj
